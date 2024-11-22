@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TestMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TestMap.tmx": {
+            "scale": 2.7227,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 94.75887905388034,
+                "y": 97.14621515407501
+            }
+        },
+        "TileSetForCP215.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.009
+        },
+        "Wooden_House_Walls_Tilset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/littleusagi/Downloads",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "TestMap.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TestMap.tmx",
+        "TileSetForCP215.tsx",
+        "Grass.tsx",
+        "Wooden_House_Walls_Tilset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 48,
+        "width": 48
+    }
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rueng\\OneDrive - Srinakharinwirot University\\University\\Year4\\CP215\\Games\\ProjectCP215\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D060F-A251-457F-805F-53572AC9E72D}|ProjectCP215.csproj|c:\\users\\rueng\\onedrive - srinakharinwirot university\\university\\year4\\cp215\\games\\projectcp215\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D060F-A251-457F-805F-53572AC9E72D}|ProjectCP215.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52D060F-A251-457F-805F-53572AC9E72D}|ProjectCP215.csproj|c:\\users\\rueng\\onedrive - srinakharinwirot university\\university\\year4\\cp215\\games\\projectcp215\\code\\maps\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52D060F-A251-457F-805F-53572AC9E72D}|ProjectCP215.csproj|solutionrelative:code\\maps\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\rueng\\OneDrive - Srinakharinwirot University\\University\\Year4\\CP215\\Games\\ProjectCP215\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\rueng\\OneDrive - Srinakharinwirot University\\University\\Year4\\CP215\\Games\\ProjectCP215\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:17:16.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TileMapManager.cs",
+              "DocumentMoniker": "C:\\Users\\rueng\\OneDrive - Srinakharinwirot University\\University\\Year4\\CP215\\Games\\ProjectCP215\\Code\\Maps\\TileMapManager.cs",
+              "RelativeDocumentMoniker": "Code\\Maps\\TileMapManager.cs",
+              "ToolTip": "C:\\Users\\rueng\\OneDrive - Srinakharinwirot University\\University\\Year4\\CP215\\Games\\ProjectCP215\\Code\\Maps\\TileMapManager.cs",
+              "RelativeToolTip": "Code\\Maps\\TileMapManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:17:03.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

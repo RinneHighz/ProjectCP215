@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TestMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TestMap.tmx": {
+            "scale": 2.7227,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 95.12616153083336,
+                "y": 97.14621515407501
+            }
+        },
+        "Wooden_House_Walls_Tilset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/littleusagi/Library/CloudStorage/OneDrive-SrinakharinwirotUniversity/University/Year4/CP215/Games/ProjectCP215/resources/tileMaps/Sprout Lands - Sprites - Basic pack/Tilesets",
+    "map.height": 10,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "TestMap.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "TestMap.tmx",
+        "Grass.tsx",
+        "Wooden_House_Walls_Tilset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
